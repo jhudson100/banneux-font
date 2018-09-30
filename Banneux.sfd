@@ -1,9 +1,9 @@
 SplineFontDB: 3.1
-FontName: Banneaux
-FullName: Banneaux
-FamilyName: Banneaux
+FontName: Banneux
+FullName: Banneux
+FamilyName: Banneux
 Weight: Regular
-Copyright: Copyright (c) 2018, jhudson
+Copyright: Copyright (c) 2018, James Hudson\nThis font is licensed under the SIL Open Font License version 1.1\nhttps://scripts.sil.org/OFL
 UComments: "2018-9-21: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1537556816
-ModificationTime: 1538330620
+ModificationTime: 1538331068
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
